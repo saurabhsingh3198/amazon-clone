@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "bootstrap": "^5.2.3",
+    "install": "^0.13.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router": "^6.4.4",
+    "react-router-dom": "^6.4.4"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.10.16/docs/data/material/components/drawers/MiniDrawer.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "name": "rq8x47",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
